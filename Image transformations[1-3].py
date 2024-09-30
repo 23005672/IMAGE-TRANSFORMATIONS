@@ -1,4 +1,5 @@
 
+
 ##i)Image Translation
 import numpy as np
 import cv2
@@ -37,7 +38,3 @@ plt.imshow(sheared_img_xaxis)
 plt.show()
 plt.axis
 plt.show()
-
-
-
-
