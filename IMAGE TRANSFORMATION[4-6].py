@@ -13,7 +13,7 @@ def show_image(image):
     plt.show()
 
 # Load an image from URL or file path
-image_url = 'nature.jpg'  # Replace with your image URL or file path
+image_url = 'rapunzel.jpg'  # Replace with your image URL or file path
 image = cv2.imread(image_url)
 
 # Reflect the image horizontally
@@ -48,7 +48,7 @@ def show_image(image):
     plt.show()
 
 # Load an image from URL or file path
-image_url = 'nature.jpg'  # Replace with your image URL or file path
+image_url = 'rapunzel.jpg'  # Replace with your image URL or file path
 image = cv2.imread(image_url)
 
 # Define rotation angle in degrees
@@ -85,7 +85,7 @@ def show_image(image):
     plt.show()
 
 # Load an image from URL or file path
-image_url = 'nature.jpg'  # Replace with your image URL or file path
+image_url = 'rapunzel.jpg'  # Replace with your image URL or file path
 image = cv2.imread(image_url)
 
 # Define cropping coordinates (x, y, width, height)
